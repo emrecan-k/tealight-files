@@ -1,5 +1,5 @@
 from tealight.logo import move, turn
-n=1
+n=0
 def square(side):
   for i in range(0,4):
     move(side)
