@@ -4,7 +4,8 @@ def square(side):
   for i in range(0,4):
     move(side)
     turn(90)
-
-square(30)
-move(30)
-square(30)
+while n > 5 :
+  square(30)
+  move(30)
+  square(30)
+  n = n + 1 
