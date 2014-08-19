@@ -10,3 +10,4 @@ for i in range(0, 500):
   touch()
   if touch() == None:
     turn(-1)
+     
