@@ -10,7 +10,11 @@ while n < 7:
   move(size)
   square(size)
   n = n + 1 
+n = 1
 turn(270)
 square(size)
 turn(-90)
-square(size)
+while n < 6 :
+  square(size)
+  move(size)
+  square(size)
