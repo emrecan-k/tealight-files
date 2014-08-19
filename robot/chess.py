@@ -9,3 +9,4 @@ from tealight.robot import (move,
 move()
 look()
 smell()
+move(5)
