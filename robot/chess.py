@@ -8,3 +8,4 @@ from tealight.robot import (move,
 n=0
 while n < 33:
   move()
+  n = n+1
