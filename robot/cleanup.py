@@ -8,5 +8,5 @@ from tealight.robot import (move,
 for i in range(0, 500):
   move()
   touch()
-  if touch() == '':
+  if touch() == 'none':
     turn(-1)
