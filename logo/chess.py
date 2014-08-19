@@ -18,4 +18,4 @@ while n < 6:
   square(size)
   move(size)
   square(size)
-  n + 1
+  n = n + 1
