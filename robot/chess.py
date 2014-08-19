@@ -9,3 +9,8 @@ n=1
 while n < 33:
   move()
   n = n+1
+turn(90)
+n = 1
+while n < 33:
+  move()
+  n +=1
