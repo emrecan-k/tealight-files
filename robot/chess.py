@@ -5,7 +5,7 @@ from tealight.robot import (move,
                             smell, 
                             left_side, 
                             right_side)
-n=0
+n=1
 while n < 33:
   move()
   n = n+1
