@@ -10,7 +10,6 @@ while n < 7:
   square(30)
   n = n + 1 
 turn(270)
-move(30)
 square(30)
 move(30)
 square(30)
