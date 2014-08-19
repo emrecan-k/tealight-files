@@ -14,7 +14,7 @@ n = 1
 turn(270)
 square(size)
 turn(-90)
-while n < 6 :
+while n <4:
   square(size)
   move(size)
   square(size)
