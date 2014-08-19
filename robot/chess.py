@@ -36,7 +36,7 @@ turn(-1)
 i=0
 while i<4:
   n=0
-  while n < 31:
+  while n < 30:
     move()
     n = n+1
   turn(-1)
@@ -46,7 +46,7 @@ while i<4:
     n +=1
   turn(-1)
   n=0
-  while n <31:
+  while n <30:
     move()
     n+=1
   turn(1)
@@ -57,6 +57,6 @@ while i<4:
   turn(1)
   i+=1
 n=0
-while n < 31:
+while n < 30:
  move()
  n = n+1
