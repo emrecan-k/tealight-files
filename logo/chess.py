@@ -20,6 +20,7 @@ while n < 7:
   square(size)
   n = n + 1
 n = 1
+move(size)
 turn(90)
 move(size)
 square(size)
