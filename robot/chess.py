@@ -6,7 +6,3 @@ from tealight.robot import (move,
                             left_side, 
                             right_side)
 
-move()
-look()
-smell()
-move(5)
