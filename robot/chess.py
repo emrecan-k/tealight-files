@@ -11,7 +11,7 @@ while n < 32:
   n = n+1
 turn(1)
 n = 0
-while n < 5:
+while n < 4:
   move()
   n +=1
 turn(1)
