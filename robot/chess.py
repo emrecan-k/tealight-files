@@ -26,4 +26,5 @@ while i<4:
   while n<4:
     move()
     n+=1
+  turn(-1)
   i+=1
