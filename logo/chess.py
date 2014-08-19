@@ -13,5 +13,4 @@ while n < 7:
 turn(270)
 square(size)
 turn(-90)
-move(size)
 square(size)
