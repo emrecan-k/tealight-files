@@ -12,6 +12,6 @@ while n < 7:
   n = n + 1 
 turn(270)
 square(size)
-turn(90)
+turn(-90)
 move(size)
 square(size)
