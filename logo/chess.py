@@ -26,5 +26,4 @@ while i < 4:
   turn(90)
   move(size)
   square(size)
-  turn(90)
   i=i+1
