@@ -5,4 +5,4 @@ def square(side):
     move(side)
     turn(90)
 
-square(20)
+square(30)
