@@ -6,5 +6,5 @@ from tealight.robot import (move,
                             left_side, 
                             right_side)
 n=0
-for n = 1 to 32 :
+while n < 33:
   move()
