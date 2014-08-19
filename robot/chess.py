@@ -5,12 +5,17 @@ from tealight.robot import (move,
                             smell, 
                             left_side, 
                             right_side)
-n=1
-while n < 33:
+n=0
+while n < 32:
   move()
   n = n+1
-turn(90)
-n = 1
-while n < 33:
+turn(1)
+n = 0
+while n < 5:
   move()
   n +=1
+turn(1)
+n=0
+while n <32:
+  move()
+  n+=1
