@@ -5,5 +5,8 @@ from tealight.robot import (move,
                             smell, 
                             left_side, 
                             right_side)
-for i in range(0, 3):
+for i in range(0, 500):
   move()
+  touch()
+  if touch() == 'edge'
+    turn(1)
