@@ -6,7 +6,7 @@ def square(side):
   for i in range(0,4):
     move(side)
     turn(90)
-while i < 4:
+
   while n < 7:
     square(size)
     move(size)
@@ -27,4 +27,3 @@ while i < 4:
   move(size)
   square(size)
   turn(-270)
-  i=i+1
