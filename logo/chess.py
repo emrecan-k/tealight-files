@@ -4,7 +4,8 @@ def square(side):
   for i in range(0,4):
     move(side)
     turn(90)
- for i in range(0, edges):
-  move(size)
-  square(decoration)
-  turn(angle)
+
+  for i in range(0, edges):
+    move(size)
+    square(decoration)
+    turn(angle)
