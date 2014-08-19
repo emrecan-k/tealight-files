@@ -1,6 +1,6 @@
 from tealight.logo import move, turn
 n=0
-i = 1
+i = 0
 size=30
 def square(side):
   for i in range(0,4):
