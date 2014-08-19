@@ -5,6 +5,6 @@ from tealight.robot import (move,
                             smell, 
                             left_side, 
                             right_side)
-
+n=0
 for n = 1 to 32 :
   move()
