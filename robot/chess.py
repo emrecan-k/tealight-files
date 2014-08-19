@@ -28,3 +28,7 @@ while i<4:
     n+=1
   turn(-1)
   i+=1
+n=0
+while n < 32:
+ move()
+ n = n+1
