@@ -17,7 +17,7 @@ circle(300,200, 20)
 
 box(500, 500, 60, 60)
 
-image(200,200,"Wigwag.png")
+image(200,200,"animals/Wigwag.png")
 
 line(560,0,560,495)
 
