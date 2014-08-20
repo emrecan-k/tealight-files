@@ -18,4 +18,18 @@ def handle_mousemove(x,y,button):
     line(lastx, lasty, x, y)
     lastx = x
     lasty = y
+
+def handle_mousedown(x,y):
+  global lastx, lasty
   
+  lastx = x
+  lasty = y
+
+def handle_mousemove(x,y,button):
+  global lastx, lasty
+  
+  if button == "right":
+    color("black")
+    line(lastx, lasty, x, y)
+    lastx = x
+    lasty = y
