@@ -19,12 +19,6 @@ def handle_mousemove(x,y,button):
     lastx = x
     lasty = y
 
-def handle_mousedown(x,y):
-  global lastx, lasty
-  
-  lastx = x
-  lasty = y
-
 def handle_mousemove(x,y,button):
   global lastx, lasty
   
