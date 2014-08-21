@@ -1,4 +1,4 @@
-from tealight.art import (color, rectangle, line, spot, circle, box, image, text, background)
+from tealight.art import (color, rectangel, line, spot, circle, box, image, text, background)
 
 color("blue")
 
