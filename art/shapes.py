@@ -8,10 +8,10 @@ box(250,250,100,100)
 def handle_mousemove(x,y,button):
   global lastx, lasty
   
-  if button == "left":
+  if button == "left" and 350 > x > 250 and 350 > y > 250:
     
-    ("blue")
-    line(lastx, lasty, x, y)
+    color("red")
+    box(lastx, lasty, x, y)
     lastx = x
     lasty = y
   
