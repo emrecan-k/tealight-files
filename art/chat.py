@@ -1,7 +1,7 @@
 from tealight.net import connect, send
 connect("chat.py")
 
-send("hello!", echo = False)
+send("hello!", echo = false)
 
 
 
