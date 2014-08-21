@@ -12,4 +12,3 @@ def handle_mousedown(x,y,button):
     
     color("red")
     box(250, 250, 100, 100)
-  
