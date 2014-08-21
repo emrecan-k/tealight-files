@@ -1,5 +1,5 @@
 from tealight.net import connect, send
-connect(chat.py)
+connect("chat.py")
 
 
 
