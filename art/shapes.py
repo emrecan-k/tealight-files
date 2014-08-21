@@ -12,6 +12,4 @@ def handle_mousemove(x,y,button):
     
     color("red")
     box(250, 250, 100, 100)
-    lastx = x
-    lasty = y
   
