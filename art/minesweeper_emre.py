@@ -1,2 +1,2 @@
-import github.davidsamueljones.art.Minesweeper
+from github.davidsamueljones.art.Minesweeper import *
 print "Minesweeper"
