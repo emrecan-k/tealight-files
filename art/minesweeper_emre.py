@@ -1,1 +1,1 @@
-import github.davidsamueljones.art.Minesweeper.py
+import github.davidsamueljones.art.Minesweeper
